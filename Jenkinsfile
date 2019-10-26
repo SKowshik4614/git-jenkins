@@ -1,4 +1,3 @@
-node('build') {
+node {
     echo 'Building...'
-    sh 'make'
 }
